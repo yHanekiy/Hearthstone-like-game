@@ -1,0 +1,24 @@
+The hero starts the game with 30 health points. The game ends when the hero has 0 or less health points.
+At the beginning of the game the player has a deck of 30 cards. A hand consists of a maximum of 9 cards.
+If the number of cards increases, then each new card must be changed with one in a hand or be discarded.
+
+If a player loses all 30 cards from the deck, the hero receives one damage each time the player must draw one card from the deck.
+Even if a player already has a hand of 9 cards, but needs one more card and the deck is empty, the hero will still receive one damage.
+
+The player starts the game with 5 cards in hand. On his first turn, he can replace any number of cards in his hand once.
+In subsequent rounds there is no such opportunity.Almost every card has its own abilities, which are applied as soon as
+the card is placed on the field from your hand. Also, to issue a card, you need to pay a certain price indicated on it.
+
+Technical points:
+1)To select your card, click on it
+2)To place a card from your hand onto the field - select a card from your hand and click on the battlefield
+3)To attack an opponent's card - already having the selected card on the battlefield select an enemy card on the battlefield
+4)To attack the enemy - already having a selected card on the battlefield, select the enemy icon
+5)Replace cards - click on the "change creatures" button and enter the indexes of the cards you want to change
+6)End your turn - click on the "end turn" button
+
+Small points:
+1)Each card can only attack once per year
+2)Each turn the amount of mana increases by 1, up to 10
+3)Characters with a "T" in their name have a taunt, which means that while they are in poly,
+enemy cards cannot attack other cards or the character themselves.
